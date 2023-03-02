@@ -3,7 +3,7 @@ import './app.css'
 export * from './lib/MyCountdown.svelte'
 export * from './lib/Clock.svelte'
 export * from './lib/Button.svelte'
-export * from './lib/Card.svelte'
+export * from './lib/Card/Card.svelte'
 
 
 // const app = new App({
